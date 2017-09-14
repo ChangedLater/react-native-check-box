@@ -98,6 +98,7 @@ rightTextView | PropTypes.element | true |   | Custom right TextView
 rightTextStyle  | Text.propTypes.style | true |  | Custom right Text style
 checkedImage  |  PropTypes.element  | true  | Default image | Custom  checked Image
 unCheckedImage  |  PropTypes.element  | true  |  Default image  | Custom  unchecked Image
+containerStyle  | Text.propTypes.style | true |  | Custom style for the outer container view
 isChecked  |  PropTypes.bool |  false  |  false  | checkbox checked state
 onClick   |  PropTypes.func.isRequired |  false  |  | callback  function
 disabled  |  PropTypes.bool            | true  |  false | Disable the checkbox button
